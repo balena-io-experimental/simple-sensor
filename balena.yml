@@ -12,7 +12,7 @@ assets:
     type: blob.asset
     data:
       url: >-
-        https://raw.githubusercontent.com/balenalabs/balena-sound/master/logo.png
+        https://raw.githubusercontent.com/balena-io-playground/simple-sensor/master/logo.png
 data:
   applicationEnvironmentVariables:
     - RAW_VALUES: 0
