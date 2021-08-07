@@ -19,6 +19,7 @@ data:
     - COLLAPSE_FIELDS: 1
   defaultDeviceType: raspberrypi3
   supportedDeviceTypes:
+    - raspberry-pi
     - raspberry-pi2
     - raspberrypi3
     - raspberrypi4-64
